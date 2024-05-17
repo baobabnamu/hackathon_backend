@@ -1,4 +1,4 @@
-package rokaf.hackathon.backend.config;
+package rokaf.hackathon.backend.global.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;
